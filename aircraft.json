@@ -32,7 +32,7 @@
         "name": "Bonanza 35 ",
         "designator": "BE35",
         "manufacturer": "Beech Aircraft ",
-        "recog": "Low/straight-wing, \u201cV\u201d tail, Retractable landing gear, Single-engine (prop), Small weight class, CWT Category I,"
+        "recog": "Low/straight-wing, V tail, Retractable landing gear, Single-engine (prop), Small weight class, CWT Category I,"
     },
     {
         "title": "Bonanza 36 ",
@@ -40,5 +40,34 @@
         "designator": "BE36",
         "manufacturer": "Beech Aircraft ",
         "recog": "Low/straight-wing, Conventional tail, Retractable landing gear, Single-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Mooney M20R",
+        "name": "Mooney",
+        "designator": "M20R",
+        "manufacturer": "Mooney Airplane",
+        "recog": "Low/straight-wing, Forward slant vertical stabilizer, Single-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Tomahawk PA38",
+        "name": "Tomahawk",
+        "designator": "PA38",
+        "manufacturer": "Piper Aircraft Corporation ",
+        "recog": "Low/straight-wing, T tail configuration with horizontal stabilizer slightly below the top, Single-engine (prop), Modified bubble canopy with square side window, Small weight class, CWT Category I"
+    },
+    {
+        "title": "Malibu PA46",
+        "name": "Malibu",
+        "designator": "PA46",
+        "manufacturer": "Piper Aircraft Corporation ",
+        "recog": "Low/straight-wing, Conventional tail, Retractable landing gear, Single-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Eagle PC12",
+        "name": "Eagle",
+        "designator": "PC12",
+        "manufacturer": "Pilatus Aircraft",
+        "recog": "Low/straight-wing with winglets, T tail, Retractable landing gear, Single-engine (turboprop), Small weight class,CWT Category I"
     }
+    
 ]
