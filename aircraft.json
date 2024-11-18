@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Cesna Skykawk C172",
+        "name": "Skyhawk, Cutlass, Mescalero ",
+        "designator": "C172",
+        "manufacturer": "Cessna Aircraft Company ",
+        "recog": "High/straight-wing with struts, Square windows, Conventional tail Single-engine (prop), Small weight, class CWT Category I "
+    },
+    {
+        "title": "Stationair C206",
+        "name": "Stationair ",
+        "designator": "C206",
+        "manufacturer": "Cessna Aircraft Company ",
+        "recog": "High/straight-wing with struts, Conventional tail, Fixed landing gear, Single-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Cherokee P28A",
+        "name": "Cherokee ",
+        "designator": "P28A",
+        "manufacturer": "Piper Aircraft Corporation ",
+        "recog": "Low/straight-wing, Conventional tail with stabilator, Single-engine (prop), Fixed landing gear, Small weight class, CWT Category I "
+    },
+    {
+        "title": "Caravan C208",
+        "name": "Caravan C208",
+        "designator": "C208",
+        "manufacturer": "Cessna Aircraft ",
+        "recog": "High-wing with wing struts, conventional tail, Turbo-prop, Cargo pod under fuselage; not all C208s will have the cargo pod, Bigger than other single-engine Cessnas with more windows, Small weight class, CWT Category I,"
+    },
+    {
+        "title": "Bonanza 35 ",
+        "name": "Bonanza 35 ",
+        "designator": "BE35",
+        "manufacturer": "Beech Aircraft ",
+        "recog": "Low/straight-wing, \u201cV\u201d tail, Retractable landing gear, Single-engine (prop), Small weight class, CWT Category I,"
+    },
+    {
+        "title": "Bonanza 36 ",
+        "name": "Bonanza 36 ",
+        "designator": "BE35",
+        "manufacturer": "Beech Aircraft ",
+        "recog": "Low/straight-wing, Conventional tail, Retractable landing gear, Single-engine (prop), Small weight class, CWT Category I"
+    }
+]

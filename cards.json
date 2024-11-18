@@ -1,0 +1,17 @@
+[
+    {
+        "front": "What is Python?",
+        "back": "A powerful programming language!",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+    },
+    {
+        "front": "What is HTML?",
+        "back": "The standard markup language for creating web pages.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+    },
+    {
+        "front": "What is CSS?",
+        "back": "A language used to style the HTML structure.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+    }
+]
