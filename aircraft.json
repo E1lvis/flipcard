@@ -68,6 +68,285 @@
         "designator": "PC12",
         "manufacturer": "Pilatus Aircraft",
         "recog": "Low/straight-wing with winglets, T tail, Retractable landing gear, Single-engine (turboprop), Small weight class,CWT Category I"
+    },
+    {
+        "title": "Cirrus SR22",
+        "name": "Cirrus",
+        "designator": "SR22",
+        "manufacturer": "Cirrus Aircraft",
+        "recog": "Low/straight-wing, Conventional tail, Fixed landing gear, Single-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Bell Ranger 206 B06",
+        "name": "Bell Ranger 206",
+        "designator": "B06",
+        "manufacturer": "Bell Helicopter Textron",
+        "recog": "Helicopter, Fuselage box-shaped , Fixed skid rail gear, Single Turbo shaft engine, single rotor, small wieght class, CWT category 1"
+    },
+    {
+        "title": "Bell 222 B222",
+        "name": "B222",
+        "designator": "B222",
+        "manufacturer": "Bell Helicopter Textron",
+        "recog": "Helicopter, Fixed skid rail gear or wheels, Twin turbo-shaft engine, single rotor, Small weight class, CWT Category I"
+    },
+    {
+        "title": "Commander AC68",
+        "name": "Commander ",
+        "designator": "AC68",
+        "manufacturer": "Rockwell International Group",
+        "recog": "High/straight-wing, Conventional tail, Twin-engine (prop), Retractable landing gear, Small weight class, CWT Category I"
+    },
+    {
+        "title": "Baron BE58",
+        "name": "Baron",
+        "designator": "BE58",
+        "manufacturer": "Beech Aircraft ",
+        "recog": "Low/straight-wing, Conventional tail, Twin-engine (prop) set forward on the wing, Side windows are symmetrical, Wheel pans are broad, Small weight class, CWT Category I"
+    },
+    {
+        "title": "Twin Cessna C310",
+        "name": "Twin Cessna ",
+        "designator": "C310",
+        "manufacturer": "Cessna Aircraft Company ",
+        "recog": "Low/straight-wing (with wingtip gas tanks), Retractable landing gear, Conventional tail, Twin-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Golden Eagle C421",
+        "name": "Golden Eagle, Executive Commuter ",
+        "designator": "C421",
+        "manufacturer": "Cessna Aircraft Company ",
+        "recog": "Low/straight-wing, Sharp, pointed nose, Conventional tail, Twin-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Seneca PA34",
+        "name": "Seneca",
+        "designator": "PA34",
+        "manufacturer": "Piper Aircraft Corporation ",
+        "recog": "Low/straight-wing, Conventional tail with stabilator, Back window smaller, Main gear wheel pans slim, Twin-engine (prop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Navajo PA31",
+        "name": "Navajo",
+        "designator": "PA31",
+        "manufacturer": "Piper Aircraft Corporation ",
+        "recog": "Low/straight-wing with winglets, Conventional tail, Twin-engine (prop), Retractable landing gear, Square windows, Small weight class, CWT Category I"
+    },
+    {
+        "title": "Cheyenne PAY3",
+        "name": "Cheyenne",
+        "designator": "PAY3",
+        "manufacturer": "Piper Aircraft Corporation ",
+        "recog": "Low/straight-wing (with wingtip gas tanks), Stubby, rounded nose, T tail, Rectangular wheel pans, Twin-engine (turboprop), Small weight class, CWT Category I"
+    },
+    {
+        "title": "Super King Air BE20",
+        "name": "Super King Air",
+        "designator": "BE20",
+        "manufacturer": "Beech Aircraft ",
+        "recog": "Low-wing, Round windows, T tail, Twin-engine (turboprop) with large exhausts, Small+ weight class, CWT Category I "
+    },
+    {
+        "title": "Dash 8 DH8C",
+        "name": "Dash 8",
+        "designator": "DH8C",
+        "manufacturer": "Dehavilland",
+        "recog": "High/straight-wing, T tail, Twin-engine (turboprop), Retractable landing gear, Large weight class, CWT A/B/C Category G, CWT D Category F, DH8A-D"
+    },
+    {
+        "title": "Beechjet BE40",
+        "name": "Beechjet",
+        "designator": "BE40",
+        "manufacturer": "Beech Aircraft ",
+        "recog": "Low/swept-wing, T tail, Engines on fuselage, Oval windows, Small+ weight class, CWT Category H"
+    },
+    {
+        "title": "Citation C550",
+        "name": "Citation ",
+        "designator": "C550",
+        "manufacturer": "Cessna Aircraft Company ",
+        "recog": "Low/straight-wing, Rectangular side windows, Conventional tail, Rounded nose, Small+ weight class, CWT Category I"
+    },
+    {
+        "title": "Citation X (10) C750",
+        "name": "Citation X (10)",
+        "designator": "C750",
+        "manufacturer": "Cessna Aircraft Company ",
+        "recog": "Low/swept-wing, T tail with huge tail cone, Pot belly, Two jet engines (aft fuselage), Small+ weight class, CWT Category H"
+    },
+    {
+        "title": "Challenger CL60",
+        "name": "Challenger",
+        "designator": "CL60",
+        "manufacturer": "Bombardier ",
+        "recog": "Low/swept-wing with winglets and flap tracks under the wing, T tail, Large engines mounted high on side of fuselage, Large weight class, CWT Category G"
+    },
+    {
+        "title": "Mystere FA20",
+        "name": "Falcon, Mystere",
+        "designator": "FA20",
+        "manufacturer": "Dassault-Breguet",
+        "recog": "Low/swept-wing, Horizontal stabilizer above the fuselage (mid-tail), Two jet engines (aft fuselage), Small+ weight class, CWT Category H"
+    },
+    {
+        "title": "Gulfstream GLF3",
+        "name": "Gulfstream ",
+        "designator": "GLF3",
+        "manufacturer": "Gulfstream Aerospace Corporation",
+        "recog": "Low/swept-wing with winglets, Round side windows, T tail, Two jet engines (aft fuselage), Large weight class, CWT, Category G"
+    },
+    {
+        "title": "Lear LJ35",
+        "name": "Lear",
+        "designator": "LJ35",
+        "manufacturer": "Gates Learjet",
+        "recog": "Low/swept-wing with large wingtip tanks, Distinctive windshield, Oval windows, T tail, Two jet engines (aft fuselage), Small+ weight class, CWT Category H"
+    },
+    {
+        "title": "Regional Jet CRJ1",
+        "name": "Regional Jet",
+        "designator": "CRJ1",
+        "manufacturer": "Canada Air Bombardier ",
+        "recog": "Low/swept-wing with winglets, Larger version of the CL60 with a lot more windows, T tail, Two jet engines (aft fuselage), Large weight class, CWT Category G, CRJ1(2,7,9)"
+    },
+    {
+        "title": "Embraer E170",
+        "name": "Embraer 170/175",
+        "designator": "E170",
+        "manufacturer": "Embraer",
+        "recog": "Low/swept-wing with winglets, Nose shape at a 45-degree angle, Conventional tail, Two jet engines under wings, Large weight class, CWT Category G"
+    },
+    {
+        "title": "MD80 MD81",
+        "name": "MD80 (81,822,83,87,88)",
+        "designator": "MD81",
+        "manufacturer": "McDonnel-Douglas Corporation",
+        "recog": "Low/swept-wing set way back on fuselage, Lots of windows, T tail, Two jet engines (aft fuselage), Large weight class, CWT Category F"
+    },
+    {
+        "title": "Boeing 737 B737",
+        "name": "Boeing 737",
+        "designator": "B731",
+        "manufacturer": "Boeing Corporation",
+        "recog": "Low/swept-wing, Conventional tail with a 45-degree tail spine from fuselage, Two flat-bottom jet engines, one undereach wing, Winglets on the newer models, Large weight class, CWT Category F, B731 through B739"
+    },
+    {
+        "title": "Airbus 320",
+        "name": "Airbus 318 (through A321)",
+        "designator": "A320",
+        "manufacturer": "Airbus",
+        "recog": "Low/swept-wing with arrowheadshaped winglets, Conventional tail, no tail spine like the B737, Two round jet engines under wings, Large weight class, CWT Category F"
+    },
+    {
+        "title": "Airbus 3-- A306",
+        "name": "Airbus 300",
+        "designator": "A306",
+        "manufacturer": "Airbus",
+        "recog": "Low/swept-wing with arrowheadshaped winglets, Dual-wheel trucks, Two large engines under wings, Heavy weight class,CWT Category C"
+    },
+    {
+        "title": "Boeing 757 B757",
+        "name": "Boeing 757",
+        "designator": "B752",
+        "manufacturer": "Boeing Corporation",
+        "recog": "Low/swept-wing, Nose droops down, Tall gear struts, Conventional tail, Two jet engines under wings, Large weight class, CWT Category E"
+    },
+    {
+        "title": "Boeing 767 B767",
+        "name": "Boeing 767",
+        "designator": "B762",
+        "manufacturer": "Boeing Corporation",
+        "recog": "Low/swept-wing, Wide body, much wider than B757, Bullet-shaped nose, Conventional tail, Two jet engines under wings, Heavy weight class, CWT Category C, B762/763/764"
+    },
+    {
+        "title": "Boeing 777 B777",
+        "name": "Boeing 777",
+        "designator": "B772",
+        "manufacturer": "Boeing Corporation",
+        "recog": "Low/swept-wing, Triple-truck landing gear, Very long fuselage, Bullet-shaped nose, Conventional tail, Two jet engines under wings, Heavy weight class, CWT Category B"
+    },
+    {
+        "title": "Boeing 727 B727",
+        "name": "Boeing 721",
+        "designator": "B721",
+        "manufacturer": "Boeing Corporation",
+        "recog": "Low/swept-wing, T tail, Three jet engines (two aft fuselage and one through the tail), Large weight class, CWT Category F"
+    },
+    {
+        "title": "MD11",
+        "name": "Md11",
+        "designator": "MD11",
+        "manufacturer": "McDonnel-Douglas Corporation",
+        "recog": "Low/swept-wing with winglets, Conventional tail, Three jet engines (two under wing and one above fuselage through tail), Heavy weight class, CWT Category C"
+    },
+    {
+        "title": "Boeing 747 B747",
+        "name": "Boeing 747",
+        "designator": "B741",
+        "manufacturer": "Boeing Corporation",
+        "recog": "Low/swept-wing, Conventional tail, Four jet engines under wings, Forward fuselage higher than rear, Heavy weight class, CWT Category B, B741 through B744"
+    },
+    {
+        "title": "Airbus 340 A340",
+        "name": "Airbus 340",
+        "designator": "A340",
+        "manufacturer": "Airbus",
+        "recog": "Low/swept-wing with winglets, Conventional tail, Four jet engines on wings, Heavy weight class, CWT Category B, A342/343/345/346"
+    },
+    {
+        "title": "Airbus 388 A388",
+        "name": "Airbus 388",
+        "designator": "A388",
+        "manufacturer": "Airbus",
+        "recog": "Low/swept-wing, Conventional tail, Four jet engines under wings, Double decker, CWT Category A"
+    },
+    {
+        "title": "Hercules C130",
+        "name": "Hercules ",
+        "designator": "C130",
+        "manufacturer": "Lockheed Martin",
+        "recog": "High-wing, Huge conventional tail, Four turboprop engines on wings, Large weight class, CWT Category F"
+    },
+    {
+        "title": "Globemaster 3 C17",
+        "name": "Globemaster 3",
+        "designator": "C17",
+        "manufacturer": "McDonnel-Douglas Corporation",
+        "recog": "High-wing with winglets, Huge T tail, Four jet engines under wings, Heavy weight class, CWT Category C"
+    },
+    {
+        "title": "Extender KC10",
+        "name": "Extender",
+        "designator": "KC10",
+        "manufacturer": "McDonnel-Douglas Corporation",
+        "recog": "Low/swept-wing, Conventional tail, Three jet engines (two under wing, one above fuselage through tail), Heavy weight class, CWT Category C"
+    },
+    {
+        "title": "Eagle F15",
+        "name": "Eagle",
+        "designator": "F15",
+        "manufacturer": "McDonnel-Douglas Corporation",
+        "recog": "Mid/delta-wing, Twin tail, Twin jet engines between vertical, stabilizers, Large weight class, CWT Category G"
+    },
+    {
+        "title": "Fighting Falcon F16",
+        "name": "Fighting Falcon",
+        "designator": "F16",
+        "manufacturer": "General Dynamics ",
+        "recog": "Mid/delta-wing, Bubble canopy, Conventional tail, Single jet engine, Large weight class, CWT Category G"
+    },
+    {
+        "title": "Hornet F18",
+        "name": "Hornet or Super Hornet",
+        "designator": "F18",
+        "manufacturer": "McDonnel-Douglas Corporation",
+        "recog": "Mid/delta-wing, Twin modified V tail, Twin jet engines (between the, vertical stabilizers), Large weight class, CWT Category G"
+    },
+    {
+        "title": "Raptor F22 ",
+        "name": "Raptor",
+        "designator": "F22",
+        "manufacturer": "Lockheed Martin",
+        "recog": "Mid/delta-wing, Twin modified V tail, Large square intakes, Twin jet engines between vertical, stabilizers, Large weight class, CWT Category G"
     }
-    
 ]
