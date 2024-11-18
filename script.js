@@ -74,7 +74,7 @@ function createCardElement(card) {
 
   // Add content to back (text only)
   const backText = document.createElement('p');
-  backText.textContent = 'Manufacturer' + card.manufacturer;
+  backText.textContent = 'Manufacturer: ' + card.manufacturer;
 
   
   const backText3 = document.createElement('p');
