@@ -1,5 +1,6 @@
 // Fetch JSON data and prepare the cards
 let allCards = [];
+let isFrontTextHidden = false; // Track the visibility state of front text
 
 fetch('aircraft.json')
   .then((response) => response.json())
@@ -15,10 +16,12 @@ fetch('aircraft.json')
 const cardContainer = document.getElementById('card-container');
 const showAllButton = document.getElementById('show-all');
 const showRandomButton = document.getElementById('show-random');
+const hideFrontTextButton = document.getElementById('hide-front-text-btn');
 
 // Event Listeners for buttons
 showAllButton.addEventListener('click', renderAllCards);
 showRandomButton.addEventListener('click', renderRandomCard);
+hideFrontTextButton.addEventListener('click', toggleFrontTextVisibility);
 
 // Function to render all cards
 function renderAllCards() {
@@ -27,6 +30,7 @@ function renderAllCards() {
     const cardElement = createCardElement(card);
     cardContainer.appendChild(cardElement);
   });
+  applyFrontTextVisibility(); // Apply the front text visibility to all cards
 }
 
 // Function to render a single random card
@@ -36,6 +40,7 @@ function renderRandomCard() {
   const randomCard = allCards[randomIndex];
   const cardElement = createCardElement(randomCard);
   cardContainer.appendChild(cardElement);
+  applyFrontTextVisibility();
 }
 
 // Function to create a card element
@@ -62,6 +67,7 @@ function createCardElement(card) {
 
   const frontText = document.createElement('p');
   frontText.textContent = card.title;
+  frontText.classList.add('front-text'); // Add class for easy toggling
 
   cardFront.appendChild(frontImage);
   cardFront.appendChild(frontText);
@@ -96,4 +102,23 @@ function createCardElement(card) {
   });
 
   return cardElement;
+}
+
+// Function to toggle visibility of front text
+function toggleFrontTextVisibility() {
+  isFrontTextHidden = !isFrontTextHidden; // Toggle the visibility state
+  applyFrontTextVisibility(); // Apply the new visibility state to all cards
+}
+
+
+function applyFrontTextVisibility() {
+  // Get all front text elements and apply the visibility state
+  const frontTextElements = document.querySelectorAll('.front-text');
+  frontTextElements.forEach((textElement) => {
+    if (isFrontTextHidden) {
+      textElement.classList.add('hidden'); // Hide the text
+    } else {
+      textElement.classList.remove('hidden'); // Show the text
+    }
+  });
 }
